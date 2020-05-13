@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+
 remote_theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
 base_url: https://tbandara1.github.io/rc2website.github.io/ 
+url: https://tbandara1.github.io/rc2website.github.io/ 
